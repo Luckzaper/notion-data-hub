@@ -10,6 +10,8 @@ Contributions:
 * Provided actionable analytics to help businesses prioritize services effectively.
 * Tailored solutions for Vapt Vupt Multiservices and M Decals in Brazilian Portuguese.
 
+![Image](https://github.com/user-attachments/assets/cae4b52e-8a90-4d3b-9a1a-cece0825539f)
+
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-green)
