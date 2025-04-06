@@ -6,7 +6,7 @@ Role: Contributed to the strategic integration of the Notion API to centralize a
 
 Contributions:
 * Developed a conceptual framework for designing structured Notion databases.
-* Streamlined data management processes, reducing manual data entry by 80%.
+* Streamlined data management processes, reducing manual data entry by 40%.
 * Provided actionable analytics to help businesses prioritize services effectively.
 * Tailored solutions for Vapt Vupt Multiservices and M Decals in Brazilian Portuguese.
 
